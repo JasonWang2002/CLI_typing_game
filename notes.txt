@@ -1,0 +1,7 @@
+GOALS
+
+- accept and process input string #
+- display randomly selected words from a file
+- time inputs to calculate WPM and CPM
+- implement concurrency? to make things run without delay
+	std::thread, ch16 in the rust book
